@@ -1,6 +1,7 @@
 const languages = ['html', 'css', 'javascript', 'react', 'node', 'postgres'];
 const firstElement = languages[0];
 const thirdElement = languages[2];
+
 const lastElement = languages[languages.length - 1];
 
 console.log('languages array', languages);
